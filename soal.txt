@@ -1,0 +1,12 @@
+/**
+ * Ani dan Anton adalah mahasiswa dari Enigma Academy
+ * mereka diangkat menjadi seorang perpustakawan di enigma univeristy
+ * mereka mendapat tugas membuat aplikasi untuk menambahkan buku
+ * buku memiliki info code,title,publisher,publicationyear,dan author
+ * kriteria :
+ * - buat class buku dengan constructor dan propertynya
+ * - lalu buatlah sebuah class yang mempunyai method add(untuk menambahkan buku), getAll(untuk melihat semua buku), 
+ dan searchByTitle(untuk mencari buku) , dan deleted(untuk menghpus buku)
+ * - buatlah validasi dimana ketika buku kosong , buku ditambahkan ,buku di search tidak ditemukan
+ * - tambahkan minimal 5 buku
+ */
